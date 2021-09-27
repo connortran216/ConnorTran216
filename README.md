@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Trần Tuấn Cảnh</h1>
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/kaylode/kaylode"/> 
+ <img src="https://badges.pufler.dev/repos/kaylode"/>
+ <img src="https://badges.pufler.dev/commits/monthly/kaylode" />
+</p>
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi 👋, I'm Trần Tuấn Cảnh - Connor Trần</h1>
 <h3 align="center">I'm currently a Computer Science student of Ton Duc Thang University, Ho Chi Minh city. I'm mostly studying and doing researches about ML/DL/AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connortran216&label=Profile%20views&color=0e75b6&style=flat" alt="connortran216" /> </p>
@@ -8,6 +16,8 @@
 - 📫 How to reach me **canhtran210699@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-J_2tAvG_2knIdAnUU4vJbTsiRPs5TX8/view?usp=sharing](https://drive.google.com/file/d/1-J_2tAvG_2knIdAnUU4vJbTsiRPs5TX8/view?usp=sharing)
+
+- ⚡ Fun fact **I'm an energetic and passionate developer working towards Machine Learning & Deep Learning in Computer Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,9 +29,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connortran216&show_icons=true&locale=en&layout=compact" alt="connortran216" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connortran216&show_icons=true&locale=en" alt="connortran216" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connortran216&show_icons=true&locale=en&layout=compact" alt="connortran216" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connortran216&" alt="connortran216" /></p>
 
