@@ -36,6 +36,21 @@
    <a href="https://instagram.com/connor_trannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="connor_trannn" height="60" width="80" /></a>
 </p>
 
+
+
+## 🚀 Languages, tools and Platforms:
+
+<center>
+ 
+| Languages | Platforms | Tools |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img height=60 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=60 src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"/> <img height=80 src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"/> </a> | <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/microsoft-logo-slack.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/tux-linux-logo-slack-icon.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/android-slack-icon.png"/> | <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/postgres-logo-slack-icon.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/github-logo-slack-icon.png"/> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"/> <img height=60 src="https://user-images.githubusercontent.com/819186/51553744-4130b580-1e7c-11e9-889e-486937b69475.png"/> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/> <img height=60 src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"/> <img height=60 src="https://colab.research.google.com/img/colab_favicon_256px.png"/> |
+ 
+ 
+</center>
+
+---
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,12 +62,6 @@
  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- 
- 
-</p>
-
-<p align="center"> 
-
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
