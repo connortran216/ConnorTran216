@@ -44,12 +44,7 @@
  
 | Languages | Platforms | Tools |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-
- | <img height=60 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=80 src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"/> </a> 
-
-| <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/microsoft-logo-slack.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/tux-linux-logo-slack-icon.png"/> 
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+| <img height=60 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=80 src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"/> </a> | <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/microsoft-logo-slack.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/tux-linux-logo-slack-icon.png"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
