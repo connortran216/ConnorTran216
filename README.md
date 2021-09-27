@@ -61,9 +61,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connortran216&theme=react&count_private=true&hide=jupyter%20notebook" />
 </div>
 
-<a href="https://github.com/connortran216/Attendace-Cheking-using-Facenet-and-MTCNN">
+<!-- <a href="https://github.com/connortran216/Attendace-Cheking-using-Facenet-and-MTCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connortran216&Attendace-Cheking-using-Facenet-and-MTCNN&theme=react" />
-</a>
+</a> -->
 <a href="https://github.com/connortran216/Fetal-Head-Circumferences-HC18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=connortran216&repo=Fetal-Head-Circumferences-HC18&show_owner&theme=react" />
 </a>
