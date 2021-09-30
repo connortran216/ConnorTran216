@@ -23,9 +23,9 @@
 
 - 📫 Contact me at **canhtran210699@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1MJ4dQb3K8N91mi5RX1_JWrATjvnlzVn2/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1lxz_TGNgNVdQx2idYrTCejCHmk38z5R7/view?usp=sharing)
 
-- ⚡ Fun fact **I'm an energetic and passionate developer working towards Machine Learning & Deep Learning in Computer Science**
+- ⚡ Fun fact **I'm an energetic and passionate AI developer working towards Machine Learning & Deep Learning in Computer Science**
 
 ---
 
